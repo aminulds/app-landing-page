@@ -48,7 +48,7 @@ section{
   transform: scale(1.1);
 }
 
-h1{
+h2{
   text-align: center;
   color:transparent;
   background:var(--gradient);
